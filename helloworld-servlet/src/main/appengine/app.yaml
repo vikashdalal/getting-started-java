@@ -17,6 +17,7 @@
 # [START runtime]
 runtime: java
 env: flex
+service: devjavaapps
 
 handlers:
 - url: /.*
