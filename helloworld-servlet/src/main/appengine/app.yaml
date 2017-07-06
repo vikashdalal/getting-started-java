@@ -16,7 +16,7 @@
 
 # [START runtime]
 runtime: java
-env: flex
+#env: flex
 service: devjavaapps
 
 handlers:
