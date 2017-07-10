@@ -8,7 +8,6 @@
 *.iml
 
 # Target folders
-target/
 build/
 out/
 
