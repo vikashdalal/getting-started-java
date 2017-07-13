@@ -14,7 +14,7 @@ Managed VMs on Google Cloud Platform use the [Java Servlets](http://www.oracle.c
 1. [Bookshelf](bookshelf) A full featured app that demonstrates Authentication and CRUD operations for [Cloud Datastore](https://cloud.google.com/datastore/docs/concepts/overview?hl=en) and [Cloud SQL](https://cloud.google.com/sql/docs/introduction).
 
 ## Contributing changes
-....
+.....
 * See [CONTRIBUTING.md](CONTRIBUTING.md)
 
 wew
